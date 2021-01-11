@@ -2,6 +2,8 @@
 ## 文章 ##
 - 十年学编程<br>
 	[https://xiaogd.net/%E3%80%90%E8%BD%AC%EF%BC%88%E4%B8%AD%E8%8B%B1%E6%96%87%EF%BC%89%E3%80%91%E5%8D%81%E5%B9%B4%E5%AD%A6%E4%BC%9A%E7%BC%96%E7%A8%8B%EF%BC%88teach-yourself-programming-in-ten-years%EF%BC%89/](十年学编程)
+- 提问的智慧<br>
+	[https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md](提问的智慧)
 ## C语言专题 ##
 - 视频推荐<br>
 	《C语言程序设计-浙大-翁恺》
