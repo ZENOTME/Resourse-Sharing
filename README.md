@@ -53,7 +53,7 @@ Coursera[https://www.coursera.org/](https://www.coursera.org/)<br>
 CS自救指南[https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei](https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei)
 CS公开课学习群：QQ643874182<br>
 知乎 豆瓣<br>
-hs[https://www.zhihu.com/people/hu-jin-ming-31](https://www.zhihu.com/people/hu-jin-ming-31)<br>
+胡神[https://www.zhihu.com/people/hu-jin-ming-31](https://www.zhihu.com/people/hu-jin-ming-31)<br>
 
 ## Operating System ##
 - 南京大学操作系统[https://www.bilibili.com/video/BV1N741177F5?from=search&seid=6980175826132766749](https://www.bilibili.com/video/BV1N741177F5?from=search&seid=6980175826132766749)
