@@ -50,7 +50,7 @@ CSAPP （深入理解计算机系统）<br>
 MIT公开课[https://ocw.mit.edu/](https://ocw.mit.edu/)<br>
 Coursera[https://www.coursera.org/](https://www.coursera.org/)<br>
 优质课程[https://github.com/jackwener/cs-quality-courses#cs-quality-courses](https://github.com/jackwener/cs-quality-courses#cs-quality-courses)<br>
-CS自救指南[https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei](https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei)
+CS自救指南[https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei](https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei)<br>
 CS公开课学习群：QQ643874182<br>
 知乎 豆瓣<br>
 胡神[https://www.zhihu.com/people/hu-jin-ming-31](https://www.zhihu.com/people/hu-jin-ming-31)<br>
