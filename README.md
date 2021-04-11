@@ -40,6 +40,9 @@ CSAPP （深入理解计算机系统）<br>
 [http://csapp.cs.cmu.edu/3e/labs.html](http://csapp.cs.cmu.edu/3e/labs.html)<br>
 
 ## Data structure and Algorithm ##
+- CS61B[https://inst.eecs.berkeley.edu/~cs61b/archives.html](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+- 普林斯顿大学算法[https://www.coursera.org/learn/algorithms-part1#enroll](https://www.coursera.org/learn/algorithms-part1#enroll)
+- 算法4[https://book.douban.com/subject/19952400/](https://book.douban.com/subject/19952400/)
 - 数据结构自学攻略[https://www.icode9.com/content-4-853843.html](https://www.icode9.com/content-4-853843.html)
 - 邓俊辉数据结构[https://www.xuetangx.com/course/THU08091000384/5883586?channel=search_result](https://www.xuetangx.com/course/THU08091000384/5883586?channel=search_result)
 - MIT 6.042 MIT 6.006 MIT 6.046[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
